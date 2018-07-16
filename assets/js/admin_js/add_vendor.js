@@ -1,0 +1,11 @@
+$().ready(function(){
+    $("#add_vendor").validate({
+        rules:
+            {
+                name:
+                    {
+                        required:true,
+                    },
+            },
+    });
+});
