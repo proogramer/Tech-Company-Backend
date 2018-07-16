@@ -1,3 +1,18 @@
+####################
+Company Tech Backend
+####################
+
+Made a project in code igniter using PHP, HTML, CSS, Bootstrap, JavaScript, Jquery and Ajax that will help any tech company to
+manage backend. There are two panels, first is user panel and second is admin panel. In user panel.
+A vendor can fill the details with all  types of validation . Admin Panel  admin can add vendor,  view, edit, delete
+and view all the traffic. Admin can add the project with assigning employee and  view, edit and delete the project.
+Admin can calculate the earning of project and total earning.
+
+
+
+
+
+
 ###################
 What is CodeIgniter
 ###################
